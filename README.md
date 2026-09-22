@@ -1,28 +1,28 @@
-\# 自动化测试示例项目 (auto\_test\_project)
+# 自动化测试示例项目 (auto\_test\_project)
 
 
 
-一个基于 Python 的自动化测试示例项目，包含 \*\*接口测试\*\* 和 \*\*UI 测试基础架构\*\*。
+一个基于 Python 的自动化测试示例项目，包含 接口测试 和 UI 测试基础架构。
 
 
 
-\## ?? 技术栈
+## 技术栈
 
-\- Python 3.13
+编程语言- Python 3.13
 
-\- pytest（测试框架）
+测试框架- pytest
 
-\- requests（接口测试）
+接口测试- requests
 
-\- selenium（UI 测试）
+UI 测试- selenium
 
-\- allure（测试报告）
+测试报告- allure
 
 
 
-\## ?? 项目结构
+## 项目结构
 
-```text
+
 
 auto\_test\_project/
 
